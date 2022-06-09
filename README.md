@@ -1,0 +1,2 @@
+# ocrjava
+ocr dengan java
